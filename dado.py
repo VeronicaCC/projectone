@@ -18,4 +18,4 @@ class Dado (object):
 
         
     def obtener_valor (self):
-        print (self.y)
+        print (self)
